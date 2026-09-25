@@ -38,16 +38,45 @@
 | Pending assignment | 0.00000000000000000000 |
 
 4-
+| name          |
+| ------------- |
+| Giulia Romano |
 
 5-
+| id | title           |
+| -- | --------------- |
+| 7  | Email Campaigns |
 
 6-
+| student_name    | cantidad_cursos_inscritos |
+| --------------- | ------------------------- |
+| Pierre Dubois   | 2                         |
+| Marco Rossi     | 2                         |
+| Priya Sharma    | 2                         |
+| Yuki Nakamura   | 2                         |
+| Lucia Fernandes | 3                         |
+| Emily Watson    | 3                         |
+| Klaus Weber     | 2                         |
 
 7-
+| category    | sum    |
+| ----------- | ------ |
+| Marketing   | 59.98  |
+| Programming | 409.93 |
+| Design      | 169.96 |
+| Data        | 179.97 |
 
 8-
+| instructor_name    | cantidad_estudiantes |
+| ------------------ | -------------------- |
+| Marta López        | 6                    |
+| Carlos Vega        | 3                    |
+| Lucia Prades       | 2                    |
+| Pending assignment | 2                    |
 
 9-
+Success. No rows returned
 
 10-
+Success. No rows returned
 
